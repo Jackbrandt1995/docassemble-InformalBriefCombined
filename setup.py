@@ -46,7 +46,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.InformalBriefCombined',
       version='1',
       description=(''),
-      long_description='# docassemble.InformalBriefCombined\n\n\n\n## Author\n\nJack Brandt, john.brandt@su.suffolk.edu\n\n',
+      long_description='# docassemble.InformalBriefCombined\r\n\r\n\r\n\r\n## Author\r\n\r\nJack Brandt, john.brandt@su.suffolk.edu\r\n\r\n',
       long_description_content_type='text/markdown',
       author='Jack Brandt',
       author_email='john.brandt@su.suffolk.edu',
